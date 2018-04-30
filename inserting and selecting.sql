@@ -1,0 +1,12 @@
+create table students(sl_no varchar(10),name varchar(20),roll_no varchar(20),department varchar(10),college_name varchar(10));
+insert into students values('1','pramitha','15bec041','ece','kct');
+insert into students values('2','kanimozhi','15bec042','ece','kct');
+insert into students values('3','arina','15bec043','ece','kct');
+insert into students values('4','kaviya','15bec044','ece','kct');
+insert into students values('5','akshaya','15bec045','ece','kct');
+insert into students values('6','mahintha','15bec046','ece','kct');
+insert into students values('7','nivetha','15bec047','ece','kct');
+insert into students values('8','cathrin','15bec048','ece','kct');
+insert into students values('9','soorya','15bec049','ece','kct');
+insert into students values('10','malavika','15bec050','ece','kct');
+select * from students;
